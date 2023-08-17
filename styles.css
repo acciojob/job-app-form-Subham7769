@@ -31,7 +31,7 @@ button:hover:hover{
     font-weight: 800;
     
 }
-input[type="text"],[type="password"],[type="number"],[type="password"],[type="email"],[type="url"],select{
+input[type="text"],[type="password"],[type="number"],[type="date"],[type="email"],[type="url"],select{
     border: 1px solid lightseagreen;
     border-radius: 5px;
     width: 98%;
